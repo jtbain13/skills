@@ -1,4 +1,4 @@
-# skills
+# Agent Skills
 
 # Agent Skills
 
